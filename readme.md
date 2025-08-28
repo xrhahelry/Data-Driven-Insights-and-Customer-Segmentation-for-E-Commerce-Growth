@@ -63,7 +63,7 @@ business by:
 12. How is price affecting the sales of top 10 products?
 
 # Dataset Introduction
-The dataset used is from [kaggle](www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
+The dataset used is from [kaggle](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)
 
 Dataset consists of sales transaction data of UK-based e-commerce for
 one year (2018-2019). This London-based shop has been selling gifts and
